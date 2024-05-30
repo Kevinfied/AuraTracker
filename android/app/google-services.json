@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "972928230326",
+    "project_id": "auratracker-41a29",
+    "storage_bucket": "auratracker-41a29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972928230326:android:e8e59924d79dc32ef65717",
+        "android_client_info": {
+          "package_name": "com.example.aura_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUgO9HierPVWef8yaPcujHKZzmq26IUwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972928230326:android:37cbe121bf6acb4cf65717",
+        "android_client_info": {
+          "package_name": "com.example.auratracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUgO9HierPVWef8yaPcujHKZzmq26IUwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
